@@ -1,0 +1,6 @@
+D:\Repos\MVVM_Example\MVVM_Shared\bin\Debug\MVVM_Shared.dll
+D:\Repos\MVVM_Example\MVVM_Shared\bin\Debug\MVVM_Shared.pdb
+D:\Repos\MVVM_Example\MVVM_Shared\obj\Debug\MVVM_Shared.csprojAssemblyReference.cache
+D:\Repos\MVVM_Example\MVVM_Shared\obj\Debug\MVVM_Shared.csproj.CoreCompileInputs.cache
+D:\Repos\MVVM_Example\MVVM_Shared\obj\Debug\MVVM_Shared.dll
+D:\Repos\MVVM_Example\MVVM_Shared\obj\Debug\MVVM_Shared.pdb

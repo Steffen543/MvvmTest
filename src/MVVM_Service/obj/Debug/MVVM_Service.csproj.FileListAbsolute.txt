@@ -1,0 +1,10 @@
+D:\Repos\MVVM_Example\MVVM_Service\bin\MVVM_Service.dll.config
+D:\Repos\MVVM_Example\MVVM_Service\bin\MVVM_Service.dll
+D:\Repos\MVVM_Example\MVVM_Service\bin\MVVM_Service.pdb
+D:\Repos\MVVM_Example\MVVM_Service\bin\MVVM_Shared.dll
+D:\Repos\MVVM_Example\MVVM_Service\bin\MVVM_Shared.pdb
+D:\Repos\MVVM_Example\MVVM_Service\obj\Debug\MVVM_Service.csprojAssemblyReference.cache
+D:\Repos\MVVM_Example\MVVM_Service\obj\Debug\MVVM_Service.csproj.CoreCompileInputs.cache
+D:\Repos\MVVM_Example\MVVM_Service\obj\Debug\MVVM_Service.csproj.CopyComplete
+D:\Repos\MVVM_Example\MVVM_Service\obj\Debug\MVVM_Service.dll
+D:\Repos\MVVM_Example\MVVM_Service\obj\Debug\MVVM_Service.pdb

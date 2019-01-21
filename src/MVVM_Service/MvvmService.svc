@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="MVVM_Service.MvvmService" CodeBehind="MvvmService.svc.cs" %>
